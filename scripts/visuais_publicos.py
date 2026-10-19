@@ -73,6 +73,50 @@ def mes(safra):
 # --------------------------------------------------------------------------- #
 # Diagramas do método
 # --------------------------------------------------------------------------- #
+def diagrama_pipeline():
+    """Ordem dos notebooks, com as bases de entrada e a saída."""
+    cinza = "#e7e6e1"
+    caixas = {  # nome: (x, y, texto, cor)
+        "des": (0, 1, "base_des.csv", cinza),
+        "n1": (1, 1, "01\nEDA e\ntratamento", AZUL_CLARO),
+        "n2": (2, 1, "02\nSeleção de\nvariáveis", AZUL_CLARO),
+        "n3": (3, 1, "03\nM1: Modelo\nBase", AZUL_CLARO),
+        "n4": (4, 1, "04\nM2: Feature\nengineering", AZUL_CLARO),
+        "n6": (5, 1, "06\nM3: Dados\nmacro", AZUL_CLARO),
+        "n7": (6, 1, "07\nVencedor e\nescoragem", AZUL_CLARO),
+        "sai": (7, 1, "OOT\nescorada", LARANJA_CLARO),
+        "n5": (3, 0, "05\nInterpretabilidade e\nensaio da escoragem", AZUL_CLARO),
+        "mac": (5, 0, "Séries públicas\ndo BCB e do IBGE", cinza),
+        "oot": (6, 0, "base_oot.csv", cinza),
+    }
+    setas = [("des", "n1"), ("n1", "n2"), ("n2", "n3"), ("n3", "n4"), ("n4", "n6"), ("n6", "n7"),
+             ("n7", "sai"), ("n3", "n5"), ("mac", "n6"), ("oot", "n7")]
+    largura, altura = 0.8, 0.62
+    fig, ax = plt.subplots(figsize=(11, 3.8))
+    for x, y, texto, cor in caixas.values():
+        largura_caixa = 1.5 if "Interpretabilidade" in texto else largura
+        ax.add_patch(FancyBboxPatch((x - largura_caixa / 2, y - altura / 2), largura_caixa, altura,
+                                    boxstyle="round,pad=0,rounding_size=0.08", facecolor=cor,
+                                    edgecolor="none"))
+        ax.text(x, y, texto, ha="center", va="center", fontsize=8.8, color=TINTA, linespacing=1.25)
+    for origem, destino in setas:
+        x0, y0 = caixas[origem][:2]
+        x1, y1 = caixas[destino][:2]
+        if y0 == y1:      # mesma linha: da borda direita à borda esquerda
+            ini, fim = (x0 + largura / 2, y0), (x1 - largura / 2, y1)
+        elif y0 > y1:     # desce
+            ini, fim = (x0, y0 - altura / 2), (x1, y1 + altura / 2)
+        else:             # sobe
+            ini, fim = (x0, y0 + altura / 2), (x1, y1 - altura / 2)
+        ax.annotate("", xy=fim, xytext=ini,
+                    arrowprops=dict(arrowstyle="-|>", color=MUDO, lw=1.3, shrinkA=2, shrinkB=2))
+    ax.set_xlim(-0.55, 7.55)
+    ax.set_ylim(-0.45, 1.45)
+    ax.axis("off")
+    ax.set_title("Pipeline: cada notebook lê o que o anterior gravou", loc="left", pad=6)
+    salvar(fig, "metodo_pipeline")
+
+
 def diagrama_validacao():
     """Linha do tempo das safras: que parte de cada protocolo usa cada mês."""
     safras = [202301 + i for i in range(12)]
@@ -283,6 +327,7 @@ def graficos_pipeline():
 
 if __name__ == "__main__":
     tabela = montar_tabela_macro(transformacoes=False)
+    diagrama_pipeline()
     diagrama_validacao()
     diagrama_disponibilidade(tabela)
     macro_series_nacionais(tabela)

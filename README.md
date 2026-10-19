@@ -26,20 +26,9 @@ O modelo vencedor escora uma base **OOT (out-of-time) cega**, de meses posterior
 
 Cada etapa é um notebook, rodado em ordem. Um lê o que o anterior gravou, e as funções ficam no pacote `src/equifax/`.
 
-```mermaid
-flowchart LR
-    DES[(base_des.csv)] --> N1["01 · EDA e tratamento"]
-    N1 --> N2["02 · Seleção de variáveis"]
-    N2 --> N3["03 · M1: Modelo Base"]
-    N3 --> N4["04 · M2: Feature engineering"]
-    N3 --> N5["05 · Interpretabilidade"]
-    N4 --> N6["06 · M3: Dados macro"]
-    MAC[(Séries do BCB e do IBGE)] --> N6
-    N4 --> N7["07 · Vencedor e escoragem"]
-    N6 --> N7
-    OOT[(base_oot.csv)] --> N7
-    N7 --> SUB[(OOT escorada)]
-```
+<p align="center">
+  <img src="docs/imagens/metodo_pipeline.png" alt="Pipeline: base_des.csv entra no 01 (EDA e tratamento), que segue para 02 (seleção de variáveis), 03 (M1), 04 (M2), 06 (M3, que recebe as séries do BCB e do IBGE) e 07 (vencedor e escoragem, que recebe a base_oot.csv) e gera a OOT escorada; o 05 (interpretabilidade e ensaio da escoragem) parte do 03" width="100%">
+</p>
 
 | Notebook | Etapa | O que faz |
 |---|---|---|
