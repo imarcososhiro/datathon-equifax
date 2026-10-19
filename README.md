@@ -167,8 +167,8 @@ Pré-requisitos: Git e Python 3.12.
 
 ```powershell
 # 1. Clonar
-git clone <url-deste-repositorio>
-cd <pasta-do-repositorio>
+git clone https://github.com/imarcososhiro/datathon-equifax.git
+cd datathon-equifax
 
 # 2. Ambiente virtual
 py -3.12 -m venv .venv
