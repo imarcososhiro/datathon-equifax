@@ -1,0 +1,541 @@
+serie,periodo_codigo,data_referencia,territorio_codigo,territorio,valor
+desocupacao_uf,202001,2020-03-01,11,Rondônia,8.5
+desocupacao_uf,202002,2020-06-01,11,Rondônia,11.0
+desocupacao_uf,202003,2020-09-01,11,Rondônia,11.7
+desocupacao_uf,202004,2020-12-01,11,Rondônia,11.1
+desocupacao_uf,202101,2021-03-01,11,Rondônia,11.3
+desocupacao_uf,202102,2021-06-01,11,Rondônia,9.8
+desocupacao_uf,202103,2021-09-01,11,Rondônia,7.7
+desocupacao_uf,202104,2021-12-01,11,Rondônia,6.8
+desocupacao_uf,202201,2022-03-01,11,Rondônia,6.8
+desocupacao_uf,202202,2022-06-01,11,Rondônia,5.7
+desocupacao_uf,202203,2022-09-01,11,Rondônia,3.9
+desocupacao_uf,202204,2022-12-01,11,Rondônia,3.1
+desocupacao_uf,202301,2023-03-01,11,Rondônia,3.1
+desocupacao_uf,202302,2023-06-01,11,Rondônia,2.3
+desocupacao_uf,202303,2023-09-01,11,Rondônia,2.3
+desocupacao_uf,202304,2023-12-01,11,Rondônia,3.7
+desocupacao_uf,202401,2024-03-01,11,Rondônia,3.7
+desocupacao_uf,202402,2024-06-01,11,Rondônia,3.2
+desocupacao_uf,202403,2024-09-01,11,Rondônia,2.1
+desocupacao_uf,202404,2024-12-01,11,Rondônia,2.8
+desocupacao_uf,202001,2020-03-01,12,Acre,13.7
+desocupacao_uf,202002,2020-06-01,12,Acre,14.4
+desocupacao_uf,202003,2020-09-01,12,Acre,17.2
+desocupacao_uf,202004,2020-12-01,12,Acre,15.7
+desocupacao_uf,202101,2021-03-01,12,Acre,17.9
+desocupacao_uf,202102,2021-06-01,12,Acre,16.3
+desocupacao_uf,202103,2021-09-01,12,Acre,13.8
+desocupacao_uf,202104,2021-12-01,12,Acre,13.2
+desocupacao_uf,202201,2022-03-01,12,Acre,14.7
+desocupacao_uf,202202,2022-06-01,12,Acre,11.8
+desocupacao_uf,202203,2022-09-01,12,Acre,10.0
+desocupacao_uf,202204,2022-12-01,12,Acre,9.8
+desocupacao_uf,202301,2023-03-01,12,Acre,9.7
+desocupacao_uf,202302,2023-06-01,12,Acre,9.2
+desocupacao_uf,202303,2023-09-01,12,Acre,6.2
+desocupacao_uf,202304,2023-12-01,12,Acre,6.7
+desocupacao_uf,202401,2024-03-01,12,Acre,8.9
+desocupacao_uf,202402,2024-06-01,12,Acre,7.2
+desocupacao_uf,202403,2024-09-01,12,Acre,7.4
+desocupacao_uf,202404,2024-12-01,12,Acre,7.3
+desocupacao_uf,202001,2020-03-01,13,Amazonas,14.7
+desocupacao_uf,202002,2020-06-01,13,Amazonas,16.6
+desocupacao_uf,202003,2020-09-01,13,Amazonas,16.9
+desocupacao_uf,202004,2020-12-01,13,Amazonas,15.7
+desocupacao_uf,202101,2021-03-01,13,Amazonas,17.7
+desocupacao_uf,202102,2021-06-01,13,Amazonas,15.8
+desocupacao_uf,202103,2021-09-01,13,Amazonas,13.5
+desocupacao_uf,202104,2021-12-01,13,Amazonas,13.1
+desocupacao_uf,202201,2022-03-01,13,Amazonas,13.1
+desocupacao_uf,202202,2022-06-01,13,Amazonas,10.5
+desocupacao_uf,202203,2022-09-01,13,Amazonas,9.4
+desocupacao_uf,202204,2022-12-01,13,Amazonas,10.1
+desocupacao_uf,202301,2023-03-01,13,Amazonas,10.5
+desocupacao_uf,202302,2023-06-01,13,Amazonas,9.7
+desocupacao_uf,202303,2023-09-01,13,Amazonas,9.6
+desocupacao_uf,202304,2023-12-01,13,Amazonas,8.8
+desocupacao_uf,202401,2024-03-01,13,Amazonas,9.8
+desocupacao_uf,202402,2024-06-01,13,Amazonas,8.0
+desocupacao_uf,202403,2024-09-01,13,Amazonas,8.2
+desocupacao_uf,202404,2024-12-01,13,Amazonas,8.3
+desocupacao_uf,202001,2020-03-01,14,Roraima,16.7
+desocupacao_uf,202002,2020-06-01,14,Roraima,16.9
+desocupacao_uf,202003,2020-09-01,14,Roraima,19.0
+desocupacao_uf,202004,2020-12-01,14,Roraima,14.5
+desocupacao_uf,202101,2021-03-01,14,Roraima,14.4
+desocupacao_uf,202102,2021-06-01,14,Roraima,14.1
+desocupacao_uf,202103,2021-09-01,14,Roraima,10.6
+desocupacao_uf,202104,2021-12-01,14,Roraima,9.2
+desocupacao_uf,202201,2022-03-01,14,Roraima,8.8
+desocupacao_uf,202202,2022-06-01,14,Roraima,6.2
+desocupacao_uf,202203,2022-09-01,14,Roraima,4.9
+desocupacao_uf,202204,2022-12-01,14,Roraima,4.6
+desocupacao_uf,202301,2023-03-01,14,Roraima,6.7
+desocupacao_uf,202302,2023-06-01,14,Roraima,5.1
+desocupacao_uf,202303,2023-09-01,14,Roraima,7.7
+desocupacao_uf,202304,2023-12-01,14,Roraima,7.1
+desocupacao_uf,202401,2024-03-01,14,Roraima,7.7
+desocupacao_uf,202402,2024-06-01,14,Roraima,7.1
+desocupacao_uf,202403,2024-09-01,14,Roraima,6.2
+desocupacao_uf,202404,2024-12-01,14,Roraima,6.6
+desocupacao_uf,202001,2020-03-01,15,Pará,10.7
+desocupacao_uf,202002,2020-06-01,15,Pará,9.3
+desocupacao_uf,202003,2020-09-01,15,Pará,11.1
+desocupacao_uf,202004,2020-12-01,15,Pará,10.9
+desocupacao_uf,202101,2021-03-01,15,Pará,13.8
+desocupacao_uf,202102,2021-06-01,15,Pará,13.5
+desocupacao_uf,202103,2021-09-01,15,Pará,11.8
+desocupacao_uf,202104,2021-12-01,15,Pará,10.9
+desocupacao_uf,202201,2022-03-01,15,Pará,12.1
+desocupacao_uf,202202,2022-06-01,15,Pará,9.1
+desocupacao_uf,202203,2022-09-01,15,Pará,8.8
+desocupacao_uf,202204,2022-12-01,15,Pará,8.2
+desocupacao_uf,202301,2023-03-01,15,Pará,9.8
+desocupacao_uf,202302,2023-06-01,15,Pará,8.5
+desocupacao_uf,202303,2023-09-01,15,Pará,8.0
+desocupacao_uf,202304,2023-12-01,15,Pará,7.8
+desocupacao_uf,202401,2024-03-01,15,Pará,8.5
+desocupacao_uf,202402,2024-06-01,15,Pará,7.4
+desocupacao_uf,202403,2024-09-01,15,Pará,6.9
+desocupacao_uf,202404,2024-12-01,15,Pará,7.2
+desocupacao_uf,202001,2020-03-01,16,Amapá,17.4
+desocupacao_uf,202002,2020-06-01,16,Amapá,11.3
+desocupacao_uf,202003,2020-09-01,16,Amapá,15.3
+desocupacao_uf,202004,2020-12-01,16,Amapá,15.9
+desocupacao_uf,202101,2021-03-01,16,Amapá,15.3
+desocupacao_uf,202102,2021-06-01,16,Amapá,16.1
+desocupacao_uf,202103,2021-09-01,16,Amapá,17.4
+desocupacao_uf,202104,2021-12-01,16,Amapá,17.4
+desocupacao_uf,202201,2022-03-01,16,Amapá,14.3
+desocupacao_uf,202202,2022-06-01,16,Amapá,11.4
+desocupacao_uf,202203,2022-09-01,16,Amapá,10.8
+desocupacao_uf,202204,2022-12-01,16,Amapá,13.4
+desocupacao_uf,202301,2023-03-01,16,Amapá,12.2
+desocupacao_uf,202302,2023-06-01,16,Amapá,12.3
+desocupacao_uf,202303,2023-09-01,16,Amapá,12.4
+desocupacao_uf,202304,2023-12-01,16,Amapá,14.1
+desocupacao_uf,202401,2024-03-01,16,Amapá,10.9
+desocupacao_uf,202402,2024-06-01,16,Amapá,8.9
+desocupacao_uf,202403,2024-09-01,16,Amapá,8.3
+desocupacao_uf,202404,2024-12-01,16,Amapá,8.7
+desocupacao_uf,202001,2020-03-01,17,Tocantins,11.5
+desocupacao_uf,202002,2020-06-01,17,Tocantins,12.8
+desocupacao_uf,202003,2020-09-01,17,Tocantins,12.6
+desocupacao_uf,202004,2020-12-01,17,Tocantins,11.3
+desocupacao_uf,202101,2021-03-01,17,Tocantins,17.1
+desocupacao_uf,202102,2021-06-01,17,Tocantins,15.9
+desocupacao_uf,202103,2021-09-01,17,Tocantins,10.8
+desocupacao_uf,202104,2021-12-01,17,Tocantins,9.6
+desocupacao_uf,202201,2022-03-01,17,Tocantins,9.3
+desocupacao_uf,202202,2022-06-01,17,Tocantins,5.5
+desocupacao_uf,202203,2022-09-01,17,Tocantins,5.6
+desocupacao_uf,202204,2022-12-01,17,Tocantins,5.2
+desocupacao_uf,202301,2023-03-01,17,Tocantins,6.9
+desocupacao_uf,202302,2023-06-01,17,Tocantins,6.5
+desocupacao_uf,202303,2023-09-01,17,Tocantins,5.3
+desocupacao_uf,202304,2023-12-01,17,Tocantins,5.8
+desocupacao_uf,202401,2024-03-01,17,Tocantins,6.1
+desocupacao_uf,202402,2024-06-01,17,Tocantins,4.3
+desocupacao_uf,202403,2024-09-01,17,Tocantins,5.1
+desocupacao_uf,202404,2024-12-01,17,Tocantins,5.1
+desocupacao_uf,202001,2020-03-01,21,Maranhão,16.5
+desocupacao_uf,202002,2020-06-01,21,Maranhão,16.7
+desocupacao_uf,202003,2020-09-01,21,Maranhão,17.5
+desocupacao_uf,202004,2020-12-01,21,Maranhão,14.8
+desocupacao_uf,202101,2021-03-01,21,Maranhão,17.6
+desocupacao_uf,202102,2021-06-01,21,Maranhão,17.8
+desocupacao_uf,202103,2021-09-01,21,Maranhão,15.3
+desocupacao_uf,202104,2021-12-01,21,Maranhão,13.6
+desocupacao_uf,202201,2022-03-01,21,Maranhão,13.2
+desocupacao_uf,202202,2022-06-01,21,Maranhão,10.8
+desocupacao_uf,202203,2022-09-01,21,Maranhão,9.6
+desocupacao_uf,202204,2022-12-01,21,Maranhão,8.4
+desocupacao_uf,202301,2023-03-01,21,Maranhão,10.0
+desocupacao_uf,202302,2023-06-01,21,Maranhão,8.9
+desocupacao_uf,202303,2023-09-01,21,Maranhão,6.8
+desocupacao_uf,202304,2023-12-01,21,Maranhão,7.2
+desocupacao_uf,202401,2024-03-01,21,Maranhão,8.5
+desocupacao_uf,202402,2024-06-01,21,Maranhão,7.3
+desocupacao_uf,202403,2024-09-01,21,Maranhão,7.6
+desocupacao_uf,202404,2024-12-01,21,Maranhão,6.9
+desocupacao_uf,202001,2020-03-01,22,Piauí,14.2
+desocupacao_uf,202002,2020-06-01,22,Piauí,13.3
+desocupacao_uf,202003,2020-09-01,22,Piauí,13.3
+desocupacao_uf,202004,2020-12-01,22,Piauí,12.3
+desocupacao_uf,202101,2021-03-01,22,Piauí,15.2
+desocupacao_uf,202102,2021-06-01,22,Piauí,15.4
+desocupacao_uf,202103,2021-09-01,22,Piauí,12.0
+desocupacao_uf,202104,2021-12-01,22,Piauí,11.9
+desocupacao_uf,202201,2022-03-01,22,Piauí,12.4
+desocupacao_uf,202202,2022-06-01,22,Piauí,9.4
+desocupacao_uf,202203,2022-09-01,22,Piauí,9.3
+desocupacao_uf,202204,2022-12-01,22,Piauí,9.5
+desocupacao_uf,202301,2023-03-01,22,Piauí,11.1
+desocupacao_uf,202302,2023-06-01,22,Piauí,9.7
+desocupacao_uf,202303,2023-09-01,22,Piauí,9.9
+desocupacao_uf,202304,2023-12-01,22,Piauí,10.6
+desocupacao_uf,202401,2024-03-01,22,Piauí,10.0
+desocupacao_uf,202402,2024-06-01,22,Piauí,7.6
+desocupacao_uf,202403,2024-09-01,22,Piauí,8.0
+desocupacao_uf,202404,2024-12-01,22,Piauí,7.5
+desocupacao_uf,202001,2020-03-01,23,Ceará,12.4
+desocupacao_uf,202002,2020-06-01,23,Ceará,12.3
+desocupacao_uf,202003,2020-09-01,23,Ceará,14.2
+desocupacao_uf,202004,2020-12-01,23,Ceará,14.4
+desocupacao_uf,202101,2021-03-01,23,Ceará,15.1
+desocupacao_uf,202102,2021-06-01,23,Ceará,15.1
+desocupacao_uf,202103,2021-09-01,23,Ceará,12.5
+desocupacao_uf,202104,2021-12-01,23,Ceará,11.1
+desocupacao_uf,202201,2022-03-01,23,Ceará,11.1
+desocupacao_uf,202202,2022-06-01,23,Ceará,10.4
+desocupacao_uf,202203,2022-09-01,23,Ceará,8.6
+desocupacao_uf,202204,2022-12-01,23,Ceará,7.8
+desocupacao_uf,202301,2023-03-01,23,Ceará,9.6
+desocupacao_uf,202302,2023-06-01,23,Ceará,8.6
+desocupacao_uf,202303,2023-09-01,23,Ceará,9.2
+desocupacao_uf,202304,2023-12-01,23,Ceará,8.8
+desocupacao_uf,202401,2024-03-01,23,Ceará,8.7
+desocupacao_uf,202402,2024-06-01,23,Ceará,7.5
+desocupacao_uf,202403,2024-09-01,23,Ceará,6.7
+desocupacao_uf,202404,2024-12-01,23,Ceará,6.5
+desocupacao_uf,202001,2020-03-01,24,Rio Grande do Norte,15.7
+desocupacao_uf,202002,2020-06-01,24,Rio Grande do Norte,15.2
+desocupacao_uf,202003,2020-09-01,24,Rio Grande do Norte,17.8
+desocupacao_uf,202004,2020-12-01,24,Rio Grande do Norte,15.6
+desocupacao_uf,202101,2021-03-01,24,Rio Grande do Norte,15.4
+desocupacao_uf,202102,2021-06-01,24,Rio Grande do Norte,16.3
+desocupacao_uf,202103,2021-09-01,24,Rio Grande do Norte,14.9
+desocupacao_uf,202104,2021-12-01,24,Rio Grande do Norte,12.8
+desocupacao_uf,202201,2022-03-01,24,Rio Grande do Norte,14.2
+desocupacao_uf,202202,2022-06-01,24,Rio Grande do Norte,12.0
+desocupacao_uf,202203,2022-09-01,24,Rio Grande do Norte,10.5
+desocupacao_uf,202204,2022-12-01,24,Rio Grande do Norte,10.0
+desocupacao_uf,202301,2023-03-01,24,Rio Grande do Norte,12.3
+desocupacao_uf,202302,2023-06-01,24,Rio Grande do Norte,10.3
+desocupacao_uf,202303,2023-09-01,24,Rio Grande do Norte,10.1
+desocupacao_uf,202304,2023-12-01,24,Rio Grande do Norte,8.5
+desocupacao_uf,202401,2024-03-01,24,Rio Grande do Norte,9.8
+desocupacao_uf,202402,2024-06-01,24,Rio Grande do Norte,9.2
+desocupacao_uf,202403,2024-09-01,24,Rio Grande do Norte,8.9
+desocupacao_uf,202404,2024-12-01,24,Rio Grande do Norte,8.7
+desocupacao_uf,202001,2020-03-01,25,Paraíba,13.9
+desocupacao_uf,202002,2020-06-01,25,Paraíba,13.2
+desocupacao_uf,202003,2020-09-01,25,Paraíba,17.4
+desocupacao_uf,202004,2020-12-01,25,Paraíba,15.7
+desocupacao_uf,202101,2021-03-01,25,Paraíba,16.2
+desocupacao_uf,202102,2021-06-01,25,Paraíba,15.5
+desocupacao_uf,202103,2021-09-01,25,Paraíba,14.5
+desocupacao_uf,202104,2021-12-01,25,Paraíba,13.0
+desocupacao_uf,202201,2022-03-01,25,Paraíba,14.3
+desocupacao_uf,202202,2022-06-01,25,Paraíba,12.3
+desocupacao_uf,202203,2022-09-01,25,Paraíba,10.9
+desocupacao_uf,202204,2022-12-01,25,Paraíba,10.3
+desocupacao_uf,202301,2023-03-01,25,Paraíba,11.1
+desocupacao_uf,202302,2023-06-01,25,Paraíba,10.4
+desocupacao_uf,202303,2023-09-01,25,Paraíba,9.3
+desocupacao_uf,202304,2023-12-01,25,Paraíba,9.6
+desocupacao_uf,202401,2024-03-01,25,Paraíba,9.9
+desocupacao_uf,202402,2024-06-01,25,Paraíba,8.7
+desocupacao_uf,202403,2024-09-01,25,Paraíba,7.8
+desocupacao_uf,202404,2024-12-01,25,Paraíba,8.5
+desocupacao_uf,202001,2020-03-01,26,Pernambuco,14.8
+desocupacao_uf,202002,2020-06-01,26,Pernambuco,15.4
+desocupacao_uf,202003,2020-09-01,26,Pernambuco,19.3
+desocupacao_uf,202004,2020-12-01,26,Pernambuco,19.4
+desocupacao_uf,202101,2021-03-01,26,Pernambuco,21.4
+desocupacao_uf,202102,2021-06-01,26,Pernambuco,21.8
+desocupacao_uf,202103,2021-09-01,26,Pernambuco,19.3
+desocupacao_uf,202104,2021-12-01,26,Pernambuco,17.2
+desocupacao_uf,202201,2022-03-01,26,Pernambuco,17.1
+desocupacao_uf,202202,2022-06-01,26,Pernambuco,13.6
+desocupacao_uf,202203,2022-09-01,26,Pernambuco,14.0
+desocupacao_uf,202204,2022-12-01,26,Pernambuco,12.3
+desocupacao_uf,202301,2023-03-01,26,Pernambuco,14.1
+desocupacao_uf,202302,2023-06-01,26,Pernambuco,14.2
+desocupacao_uf,202303,2023-09-01,26,Pernambuco,13.3
+desocupacao_uf,202304,2023-12-01,26,Pernambuco,12.0
+desocupacao_uf,202401,2024-03-01,26,Pernambuco,12.4
+desocupacao_uf,202402,2024-06-01,26,Pernambuco,11.6
+desocupacao_uf,202403,2024-09-01,26,Pernambuco,10.6
+desocupacao_uf,202404,2024-12-01,26,Pernambuco,10.3
+desocupacao_uf,202001,2020-03-01,27,Alagoas,16.8
+desocupacao_uf,202002,2020-06-01,27,Alagoas,18.2
+desocupacao_uf,202003,2020-09-01,27,Alagoas,20.5
+desocupacao_uf,202004,2020-12-01,27,Alagoas,20.7
+desocupacao_uf,202101,2021-03-01,27,Alagoas,20.3
+desocupacao_uf,202102,2021-06-01,27,Alagoas,19.2
+desocupacao_uf,202103,2021-09-01,27,Alagoas,17.2
+desocupacao_uf,202104,2021-12-01,27,Alagoas,14.6
+desocupacao_uf,202201,2022-03-01,27,Alagoas,14.2
+desocupacao_uf,202202,2022-06-01,27,Alagoas,11.2
+desocupacao_uf,202203,2022-09-01,27,Alagoas,10.2
+desocupacao_uf,202204,2022-12-01,27,Alagoas,9.4
+desocupacao_uf,202301,2023-03-01,27,Alagoas,10.6
+desocupacao_uf,202302,2023-06-01,27,Alagoas,9.7
+desocupacao_uf,202303,2023-09-01,27,Alagoas,9.0
+desocupacao_uf,202304,2023-12-01,27,Alagoas,8.9
+desocupacao_uf,202401,2024-03-01,27,Alagoas,9.9
+desocupacao_uf,202402,2024-06-01,27,Alagoas,8.2
+desocupacao_uf,202403,2024-09-01,27,Alagoas,7.8
+desocupacao_uf,202404,2024-12-01,27,Alagoas,8.1
+desocupacao_uf,202001,2020-03-01,28,Sergipe,15.9
+desocupacao_uf,202002,2020-06-01,28,Sergipe,20.4
+desocupacao_uf,202003,2020-09-01,28,Sergipe,20.8
+desocupacao_uf,202004,2020-12-01,28,Sergipe,18.3
+desocupacao_uf,202101,2021-03-01,28,Sergipe,20.7
+desocupacao_uf,202102,2021-06-01,28,Sergipe,19.5
+desocupacao_uf,202103,2021-09-01,28,Sergipe,17.2
+desocupacao_uf,202104,2021-12-01,28,Sergipe,14.7
+desocupacao_uf,202201,2022-03-01,28,Sergipe,15.1
+desocupacao_uf,202202,2022-06-01,28,Sergipe,12.9
+desocupacao_uf,202203,2022-09-01,28,Sergipe,12.2
+desocupacao_uf,202204,2022-12-01,28,Sergipe,12.0
+desocupacao_uf,202301,2023-03-01,28,Sergipe,12.0
+desocupacao_uf,202302,2023-06-01,28,Sergipe,10.3
+desocupacao_uf,202303,2023-09-01,28,Sergipe,9.9
+desocupacao_uf,202304,2023-12-01,28,Sergipe,11.3
+desocupacao_uf,202401,2024-03-01,28,Sergipe,10.0
+desocupacao_uf,202402,2024-06-01,28,Sergipe,9.2
+desocupacao_uf,202403,2024-09-01,28,Sergipe,8.4
+desocupacao_uf,202404,2024-12-01,28,Sergipe,8.4
+desocupacao_uf,202001,2020-03-01,29,Bahia,18.9
+desocupacao_uf,202002,2020-06-01,29,Bahia,20.4
+desocupacao_uf,202003,2020-09-01,29,Bahia,21.0
+desocupacao_uf,202004,2020-12-01,29,Bahia,20.6
+desocupacao_uf,202101,2021-03-01,29,Bahia,21.7
+desocupacao_uf,202102,2021-06-01,29,Bahia,20.2
+desocupacao_uf,202103,2021-09-01,29,Bahia,18.8
+desocupacao_uf,202104,2021-12-01,29,Bahia,17.3
+desocupacao_uf,202201,2022-03-01,29,Bahia,17.5
+desocupacao_uf,202202,2022-06-01,29,Bahia,15.4
+desocupacao_uf,202203,2022-09-01,29,Bahia,15.0
+desocupacao_uf,202204,2022-12-01,29,Bahia,13.5
+desocupacao_uf,202301,2023-03-01,29,Bahia,14.4
+desocupacao_uf,202302,2023-06-01,29,Bahia,13.3
+desocupacao_uf,202303,2023-09-01,29,Bahia,13.3
+desocupacao_uf,202304,2023-12-01,29,Bahia,12.7
+desocupacao_uf,202401,2024-03-01,29,Bahia,14.0
+desocupacao_uf,202402,2024-06-01,29,Bahia,11.0
+desocupacao_uf,202403,2024-09-01,29,Bahia,9.7
+desocupacao_uf,202404,2024-12-01,29,Bahia,10.0
+desocupacao_uf,202001,2020-03-01,31,Minas Gerais,11.7
+desocupacao_uf,202002,2020-06-01,31,Minas Gerais,13.2
+desocupacao_uf,202003,2020-09-01,31,Minas Gerais,13.6
+desocupacao_uf,202004,2020-12-01,31,Minas Gerais,12.5
+desocupacao_uf,202101,2021-03-01,31,Minas Gerais,14.0
+desocupacao_uf,202102,2021-06-01,31,Minas Gerais,12.7
+desocupacao_uf,202103,2021-09-01,31,Minas Gerais,10.7
+desocupacao_uf,202104,2021-12-01,31,Minas Gerais,9.5
+desocupacao_uf,202201,2022-03-01,31,Minas Gerais,9.3
+desocupacao_uf,202202,2022-06-01,31,Minas Gerais,7.3
+desocupacao_uf,202203,2022-09-01,31,Minas Gerais,6.3
+desocupacao_uf,202204,2022-12-01,31,Minas Gerais,5.8
+desocupacao_uf,202301,2023-03-01,31,Minas Gerais,6.8
+desocupacao_uf,202302,2023-06-01,31,Minas Gerais,5.8
+desocupacao_uf,202303,2023-09-01,31,Minas Gerais,6.0
+desocupacao_uf,202304,2023-12-01,31,Minas Gerais,5.7
+desocupacao_uf,202401,2024-03-01,31,Minas Gerais,6.3
+desocupacao_uf,202402,2024-06-01,31,Minas Gerais,5.3
+desocupacao_uf,202403,2024-09-01,31,Minas Gerais,5.0
+desocupacao_uf,202404,2024-12-01,31,Minas Gerais,4.3
+desocupacao_uf,202001,2020-03-01,32,Espírito Santo,11.3
+desocupacao_uf,202002,2020-06-01,32,Espírito Santo,12.6
+desocupacao_uf,202003,2020-09-01,32,Espírito Santo,14.2
+desocupacao_uf,202004,2020-12-01,32,Espírito Santo,13.5
+desocupacao_uf,202101,2021-03-01,32,Espírito Santo,13.2
+desocupacao_uf,202102,2021-06-01,32,Espírito Santo,11.6
+desocupacao_uf,202103,2021-09-01,32,Espírito Santo,10.0
+desocupacao_uf,202104,2021-12-01,32,Espírito Santo,9.9
+desocupacao_uf,202201,2022-03-01,32,Espírito Santo,9.3
+desocupacao_uf,202202,2022-06-01,32,Espírito Santo,8.0
+desocupacao_uf,202203,2022-09-01,32,Espírito Santo,7.3
+desocupacao_uf,202204,2022-12-01,32,Espírito Santo,7.3
+desocupacao_uf,202301,2023-03-01,32,Espírito Santo,7.0
+desocupacao_uf,202302,2023-06-01,32,Espírito Santo,6.4
+desocupacao_uf,202303,2023-09-01,32,Espírito Santo,5.6
+desocupacao_uf,202304,2023-12-01,32,Espírito Santo,5.3
+desocupacao_uf,202401,2024-03-01,32,Espírito Santo,5.9
+desocupacao_uf,202402,2024-06-01,32,Espírito Santo,4.5
+desocupacao_uf,202403,2024-09-01,32,Espírito Santo,4.1
+desocupacao_uf,202404,2024-12-01,32,Espírito Santo,4.0
+desocupacao_uf,202001,2020-03-01,33,Rio de Janeiro,14.7
+desocupacao_uf,202002,2020-06-01,33,Rio de Janeiro,16.7
+desocupacao_uf,202003,2020-09-01,33,Rio de Janeiro,19.3
+desocupacao_uf,202004,2020-12-01,33,Rio de Janeiro,19.6
+desocupacao_uf,202101,2021-03-01,33,Rio de Janeiro,19.7
+desocupacao_uf,202102,2021-06-01,33,Rio de Janeiro,17.9
+desocupacao_uf,202103,2021-09-01,33,Rio de Janeiro,15.9
+desocupacao_uf,202104,2021-12-01,33,Rio de Janeiro,14.2
+desocupacao_uf,202201,2022-03-01,33,Rio de Janeiro,14.9
+desocupacao_uf,202202,2022-06-01,33,Rio de Janeiro,12.6
+desocupacao_uf,202203,2022-09-01,33,Rio de Janeiro,12.3
+desocupacao_uf,202204,2022-12-01,33,Rio de Janeiro,11.4
+desocupacao_uf,202301,2023-03-01,33,Rio de Janeiro,11.7
+desocupacao_uf,202302,2023-06-01,33,Rio de Janeiro,11.3
+desocupacao_uf,202303,2023-09-01,33,Rio de Janeiro,10.9
+desocupacao_uf,202304,2023-12-01,33,Rio de Janeiro,10.1
+desocupacao_uf,202401,2024-03-01,33,Rio de Janeiro,10.3
+desocupacao_uf,202402,2024-06-01,33,Rio de Janeiro,9.7
+desocupacao_uf,202403,2024-09-01,33,Rio de Janeiro,8.6
+desocupacao_uf,202404,2024-12-01,33,Rio de Janeiro,8.2
+desocupacao_uf,202001,2020-03-01,35,São Paulo,12.3
+desocupacao_uf,202002,2020-06-01,35,São Paulo,13.9
+desocupacao_uf,202003,2020-09-01,35,São Paulo,15.4
+desocupacao_uf,202004,2020-12-01,35,São Paulo,14.8
+desocupacao_uf,202101,2021-03-01,35,São Paulo,14.7
+desocupacao_uf,202102,2021-06-01,35,São Paulo,14.6
+desocupacao_uf,202103,2021-09-01,35,São Paulo,13.4
+desocupacao_uf,202104,2021-12-01,35,São Paulo,11.2
+desocupacao_uf,202201,2022-03-01,35,São Paulo,10.8
+desocupacao_uf,202202,2022-06-01,35,São Paulo,9.2
+desocupacao_uf,202203,2022-09-01,35,São Paulo,8.7
+desocupacao_uf,202204,2022-12-01,35,São Paulo,7.7
+desocupacao_uf,202301,2023-03-01,35,São Paulo,8.5
+desocupacao_uf,202302,2023-06-01,35,São Paulo,7.8
+desocupacao_uf,202303,2023-09-01,35,São Paulo,7.2
+desocupacao_uf,202304,2023-12-01,35,São Paulo,6.9
+desocupacao_uf,202401,2024-03-01,35,São Paulo,7.4
+desocupacao_uf,202402,2024-06-01,35,São Paulo,6.4
+desocupacao_uf,202403,2024-09-01,35,São Paulo,6.1
+desocupacao_uf,202404,2024-12-01,35,São Paulo,5.9
+desocupacao_uf,202001,2020-03-01,41,Paraná,8.0
+desocupacao_uf,202002,2020-06-01,41,Paraná,9.6
+desocupacao_uf,202003,2020-09-01,41,Paraná,10.5
+desocupacao_uf,202004,2020-12-01,41,Paraná,10.1
+desocupacao_uf,202101,2021-03-01,41,Paraná,9.4
+desocupacao_uf,202102,2021-06-01,41,Paraná,9.1
+desocupacao_uf,202103,2021-09-01,41,Paraná,8.0
+desocupacao_uf,202104,2021-12-01,41,Paraná,7.0
+desocupacao_uf,202201,2022-03-01,41,Paraná,6.8
+desocupacao_uf,202202,2022-06-01,41,Paraná,6.1
+desocupacao_uf,202203,2022-09-01,41,Paraná,5.3
+desocupacao_uf,202204,2022-12-01,41,Paraná,5.2
+desocupacao_uf,202301,2023-03-01,41,Paraná,5.4
+desocupacao_uf,202302,2023-06-01,41,Paraná,4.9
+desocupacao_uf,202303,2023-09-01,41,Paraná,4.6
+desocupacao_uf,202304,2023-12-01,41,Paraná,4.7
+desocupacao_uf,202401,2024-03-01,41,Paraná,4.8
+desocupacao_uf,202402,2024-06-01,41,Paraná,4.4
+desocupacao_uf,202403,2024-09-01,41,Paraná,4.0
+desocupacao_uf,202404,2024-12-01,41,Paraná,3.2
+desocupacao_uf,202001,2020-03-01,42,Santa Catarina,5.8
+desocupacao_uf,202002,2020-06-01,42,Santa Catarina,7.2
+desocupacao_uf,202003,2020-09-01,42,Santa Catarina,6.7
+desocupacao_uf,202004,2020-12-01,42,Santa Catarina,5.4
+desocupacao_uf,202101,2021-03-01,42,Santa Catarina,6.4
+desocupacao_uf,202102,2021-06-01,42,Santa Catarina,5.9
+desocupacao_uf,202103,2021-09-01,42,Santa Catarina,5.3
+desocupacao_uf,202104,2021-12-01,42,Santa Catarina,4.4
+desocupacao_uf,202201,2022-03-01,42,Santa Catarina,4.6
+desocupacao_uf,202202,2022-06-01,42,Santa Catarina,4.0
+desocupacao_uf,202203,2022-09-01,42,Santa Catarina,3.8
+desocupacao_uf,202204,2022-12-01,42,Santa Catarina,3.3
+desocupacao_uf,202301,2023-03-01,42,Santa Catarina,3.9
+desocupacao_uf,202302,2023-06-01,42,Santa Catarina,3.5
+desocupacao_uf,202303,2023-09-01,42,Santa Catarina,3.6
+desocupacao_uf,202304,2023-12-01,42,Santa Catarina,3.2
+desocupacao_uf,202401,2024-03-01,42,Santa Catarina,3.9
+desocupacao_uf,202402,2024-06-01,42,Santa Catarina,3.2
+desocupacao_uf,202403,2024-09-01,42,Santa Catarina,2.8
+desocupacao_uf,202404,2024-12-01,42,Santa Catarina,2.7
+desocupacao_uf,202001,2020-03-01,43,Rio Grande do Sul,8.5
+desocupacao_uf,202002,2020-06-01,43,Rio Grande do Sul,9.7
+desocupacao_uf,202003,2020-09-01,43,Rio Grande do Sul,10.5
+desocupacao_uf,202004,2020-12-01,43,Rio Grande do Sul,8.6
+desocupacao_uf,202101,2021-03-01,43,Rio Grande do Sul,9.5
+desocupacao_uf,202102,2021-06-01,43,Rio Grande do Sul,8.8
+desocupacao_uf,202103,2021-09-01,43,Rio Grande do Sul,8.4
+desocupacao_uf,202104,2021-12-01,43,Rio Grande do Sul,8.1
+desocupacao_uf,202201,2022-03-01,43,Rio Grande do Sul,7.4
+desocupacao_uf,202202,2022-06-01,43,Rio Grande do Sul,6.3
+desocupacao_uf,202203,2022-09-01,43,Rio Grande do Sul,6.0
+desocupacao_uf,202204,2022-12-01,43,Rio Grande do Sul,4.6
+desocupacao_uf,202301,2023-03-01,43,Rio Grande do Sul,5.4
+desocupacao_uf,202302,2023-06-01,43,Rio Grande do Sul,5.3
+desocupacao_uf,202303,2023-09-01,43,Rio Grande do Sul,5.4
+desocupacao_uf,202304,2023-12-01,43,Rio Grande do Sul,5.2
+desocupacao_uf,202401,2024-03-01,43,Rio Grande do Sul,5.8
+desocupacao_uf,202402,2024-06-01,43,Rio Grande do Sul,5.9
+desocupacao_uf,202403,2024-09-01,43,Rio Grande do Sul,5.1
+desocupacao_uf,202404,2024-12-01,43,Rio Grande do Sul,4.5
+desocupacao_uf,202001,2020-03-01,50,Mato Grosso do Sul,7.9
+desocupacao_uf,202002,2020-06-01,50,Mato Grosso do Sul,11.6
+desocupacao_uf,202003,2020-09-01,50,Mato Grosso do Sul,11.9
+desocupacao_uf,202004,2020-12-01,50,Mato Grosso do Sul,9.6
+desocupacao_uf,202101,2021-03-01,50,Mato Grosso do Sul,10.6
+desocupacao_uf,202102,2021-06-01,50,Mato Grosso do Sul,9.9
+desocupacao_uf,202103,2021-09-01,50,Mato Grosso do Sul,7.7
+desocupacao_uf,202104,2021-12-01,50,Mato Grosso do Sul,6.5
+desocupacao_uf,202201,2022-03-01,50,Mato Grosso do Sul,6.5
+desocupacao_uf,202202,2022-06-01,50,Mato Grosso do Sul,5.2
+desocupacao_uf,202203,2022-09-01,50,Mato Grosso do Sul,5.1
+desocupacao_uf,202204,2022-12-01,50,Mato Grosso do Sul,3.3
+desocupacao_uf,202301,2023-03-01,50,Mato Grosso do Sul,4.8
+desocupacao_uf,202302,2023-06-01,50,Mato Grosso do Sul,4.1
+desocupacao_uf,202303,2023-09-01,50,Mato Grosso do Sul,4.0
+desocupacao_uf,202304,2023-12-01,50,Mato Grosso do Sul,4.1
+desocupacao_uf,202401,2024-03-01,50,Mato Grosso do Sul,5.0
+desocupacao_uf,202402,2024-06-01,50,Mato Grosso do Sul,3.8
+desocupacao_uf,202403,2024-09-01,50,Mato Grosso do Sul,3.4
+desocupacao_uf,202404,2024-12-01,50,Mato Grosso do Sul,3.7
+desocupacao_uf,202001,2020-03-01,51,Mato Grosso,8.6
+desocupacao_uf,202002,2020-06-01,51,Mato Grosso,10.3
+desocupacao_uf,202003,2020-09-01,51,Mato Grosso,10.2
+desocupacao_uf,202004,2020-12-01,51,Mato Grosso,10.7
+desocupacao_uf,202101,2021-03-01,51,Mato Grosso,10.2
+desocupacao_uf,202102,2021-06-01,51,Mato Grosso,9.1
+desocupacao_uf,202103,2021-09-01,51,Mato Grosso,6.7
+desocupacao_uf,202104,2021-12-01,51,Mato Grosso,5.9
+desocupacao_uf,202201,2022-03-01,51,Mato Grosso,5.3
+desocupacao_uf,202202,2022-06-01,51,Mato Grosso,4.4
+desocupacao_uf,202203,2022-09-01,51,Mato Grosso,3.9
+desocupacao_uf,202204,2022-12-01,51,Mato Grosso,3.6
+desocupacao_uf,202301,2023-03-01,51,Mato Grosso,4.5
+desocupacao_uf,202302,2023-06-01,51,Mato Grosso,3.0
+desocupacao_uf,202303,2023-09-01,51,Mato Grosso,2.5
+desocupacao_uf,202304,2023-12-01,51,Mato Grosso,3.9
+desocupacao_uf,202401,2024-03-01,51,Mato Grosso,3.8
+desocupacao_uf,202402,2024-06-01,51,Mato Grosso,3.3
+desocupacao_uf,202403,2024-09-01,51,Mato Grosso,2.3
+desocupacao_uf,202404,2024-12-01,51,Mato Grosso,2.5
+desocupacao_uf,202001,2020-03-01,52,Goiás,11.6
+desocupacao_uf,202002,2020-06-01,52,Goiás,13.1
+desocupacao_uf,202003,2020-09-01,52,Goiás,13.6
+desocupacao_uf,202004,2020-12-01,52,Goiás,12.8
+desocupacao_uf,202101,2021-03-01,52,Goiás,14.0
+desocupacao_uf,202102,2021-06-01,52,Goiás,12.5
+desocupacao_uf,202103,2021-09-01,52,Goiás,10.1
+desocupacao_uf,202104,2021-12-01,52,Goiás,8.8
+desocupacao_uf,202201,2022-03-01,52,Goiás,9.0
+desocupacao_uf,202202,2022-06-01,52,Goiás,6.9
+desocupacao_uf,202203,2022-09-01,52,Goiás,6.2
+desocupacao_uf,202204,2022-12-01,52,Goiás,6.7
+desocupacao_uf,202301,2023-03-01,52,Goiás,6.8
+desocupacao_uf,202302,2023-06-01,52,Goiás,6.2
+desocupacao_uf,202303,2023-09-01,52,Goiás,6.0
+desocupacao_uf,202304,2023-12-01,52,Goiás,5.6
+desocupacao_uf,202401,2024-03-01,52,Goiás,6.1
+desocupacao_uf,202402,2024-06-01,52,Goiás,5.2
+desocupacao_uf,202403,2024-09-01,52,Goiás,5.2
+desocupacao_uf,202404,2024-12-01,52,Goiás,4.9
+desocupacao_uf,202001,2020-03-01,53,Distrito Federal,13.6
+desocupacao_uf,202002,2020-06-01,53,Distrito Federal,15.6
+desocupacao_uf,202003,2020-09-01,53,Distrito Federal,15.7
+desocupacao_uf,202004,2020-12-01,53,Distrito Federal,14.5
+desocupacao_uf,202101,2021-03-01,53,Distrito Federal,15.0
+desocupacao_uf,202102,2021-06-01,53,Distrito Federal,14.4
+desocupacao_uf,202103,2021-09-01,53,Distrito Federal,14.6
+desocupacao_uf,202104,2021-12-01,53,Distrito Federal,12.1
+desocupacao_uf,202201,2022-03-01,53,Distrito Federal,12.6
+desocupacao_uf,202202,2022-06-01,53,Distrito Federal,11.6
+desocupacao_uf,202203,2022-09-01,53,Distrito Federal,11.0
+desocupacao_uf,202204,2022-12-01,53,Distrito Federal,10.3
+desocupacao_uf,202301,2023-03-01,53,Distrito Federal,12.0
+desocupacao_uf,202302,2023-06-01,53,Distrito Federal,8.8
+desocupacao_uf,202303,2023-09-01,53,Distrito Federal,8.9
+desocupacao_uf,202304,2023-12-01,53,Distrito Federal,9.7
+desocupacao_uf,202401,2024-03-01,53,Distrito Federal,9.6
+desocupacao_uf,202402,2024-06-01,53,Distrito Federal,9.7
+desocupacao_uf,202403,2024-09-01,53,Distrito Federal,8.9
+desocupacao_uf,202404,2024-12-01,53,Distrito Federal,9.1

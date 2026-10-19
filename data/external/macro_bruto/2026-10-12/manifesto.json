@@ -1,0 +1,191 @@
+{
+  "baixado_em": "2026-10-12T01:11:56",
+  "inicio": "2020-01-01",
+  "fim": "2024-12-31",
+  "series": {
+    "selic_meta": {
+      "catalogo": {
+        "nome": "selic_meta",
+        "conceito": "Meta da taxa Selic definida pelo Copom",
+        "fonte": "sgs",
+        "codigo": "432",
+        "unidade": "% a.a.",
+        "frequencia": "diaria",
+        "geografia": "BR",
+        "defasagem_meses": 0,
+        "revisada": false,
+        "hipotese": "Juro alto encarece o crédito e aperta o orçamento das famílias",
+        "variavel_sidra": "",
+        "nivel_sidra": ""
+      },
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024",
+      "arquivo": "selic_meta.csv",
+      "n_linhas": 1827,
+      "n_territorios": 1,
+      "primeira_referencia": "2020-01-01",
+      "ultima_referencia": "2024-12-31",
+      "valores_ausentes": 0
+    },
+    "ipca_mes": {
+      "catalogo": {
+        "nome": "ipca_mes",
+        "conceito": "IPCA, variação mensal",
+        "fonte": "sgs",
+        "codigo": "433",
+        "unidade": "% no mês",
+        "frequencia": "mensal",
+        "geografia": "BR",
+        "defasagem_meses": 2,
+        "revisada": false,
+        "hipotese": "Inflação reduz a renda real",
+        "variavel_sidra": "",
+        "nivel_sidra": ""
+      },
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024",
+      "arquivo": "ipca_mes.csv",
+      "n_linhas": 60,
+      "n_territorios": 1,
+      "primeira_referencia": "2020-01-01",
+      "ultima_referencia": "2024-12-01",
+      "valores_ausentes": 0
+    },
+    "ipca_12m": {
+      "catalogo": {
+        "nome": "ipca_12m",
+        "conceito": "IPCA, variação acumulada em 12 meses",
+        "fonte": "sgs",
+        "codigo": "13522",
+        "unidade": "% em 12 meses",
+        "frequencia": "mensal",
+        "geografia": "BR",
+        "defasagem_meses": 2,
+        "revisada": false,
+        "hipotese": "Inflação reduz a renda real",
+        "variavel_sidra": "",
+        "nivel_sidra": ""
+      },
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024",
+      "arquivo": "ipca_12m.csv",
+      "n_linhas": 60,
+      "n_territorios": 1,
+      "primeira_referencia": "2020-01-01",
+      "ultima_referencia": "2024-12-01",
+      "valores_ausentes": 0
+    },
+    "inadimplencia_pf": {
+      "catalogo": {
+        "nome": "inadimplencia_pf",
+        "conceito": "Inadimplência da carteira de crédito, pessoas físicas, total",
+        "fonte": "sgs",
+        "codigo": "21084",
+        "unidade": "%",
+        "frequencia": "mensal",
+        "geografia": "BR",
+        "defasagem_meses": 3,
+        "revisada": true,
+        "hipotese": "Retrato direto do ciclo de crédito",
+        "variavel_sidra": "",
+        "nivel_sidra": ""
+      },
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.21084/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024",
+      "arquivo": "inadimplencia_pf.csv",
+      "n_linhas": 60,
+      "n_territorios": 1,
+      "primeira_referencia": "2020-01-01",
+      "ultima_referencia": "2024-12-01",
+      "valores_ausentes": 0
+    },
+    "comprometimento_renda": {
+      "catalogo": {
+        "nome": "comprometimento_renda",
+        "conceito": "Comprometimento de renda das famílias com o serviço da dívida com o SFN, com ajuste sazonal",
+        "fonte": "sgs",
+        "codigo": "29034",
+        "unidade": "%",
+        "frequencia": "mensal",
+        "geografia": "BR",
+        "defasagem_meses": 4,
+        "revisada": true,
+        "hipotese": "Famílias com mais renda comprometida pagam pior",
+        "variavel_sidra": "",
+        "nivel_sidra": ""
+      },
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29034/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024",
+      "arquivo": "comprometimento_renda.csv",
+      "n_linhas": 60,
+      "n_territorios": 1,
+      "primeira_referencia": "2020-01-01",
+      "ultima_referencia": "2024-12-01",
+      "valores_ausentes": 0
+    },
+    "endividamento_familias": {
+      "catalogo": {
+        "nome": "endividamento_familias",
+        "conceito": "Endividamento das famílias com o SFN em relação à renda acumulada dos últimos 12 meses",
+        "fonte": "sgs",
+        "codigo": "29037",
+        "unidade": "%",
+        "frequencia": "mensal",
+        "geografia": "BR",
+        "defasagem_meses": 4,
+        "revisada": true,
+        "hipotese": "Famílias já endividadas pagam pior",
+        "variavel_sidra": "",
+        "nivel_sidra": ""
+      },
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29037/dados?formato=json&dataInicial=01%2F01%2F2020&dataFinal=31%2F12%2F2024",
+      "arquivo": "endividamento_familias.csv",
+      "n_linhas": 60,
+      "n_territorios": 1,
+      "primeira_referencia": "2020-01-01",
+      "ultima_referencia": "2024-12-01",
+      "valores_ausentes": 0
+    },
+    "desocupacao_br": {
+      "catalogo": {
+        "nome": "desocupacao_br",
+        "conceito": "Taxa de desocupação (PNAD Contínua), trimestre móvel; referência = último mês do trimestre",
+        "fonte": "sidra",
+        "codigo": "6381",
+        "unidade": "%",
+        "frequencia": "trimestre_movel",
+        "geografia": "BR",
+        "defasagem_meses": 3,
+        "revisada": false,
+        "hipotese": "Desemprego derruba a capacidade de pagar",
+        "variavel_sidra": "4099",
+        "nivel_sidra": "n1"
+      },
+      "url": "https://apisidra.ibge.gov.br/values/t/6381/n1/all/v/4099/p/all",
+      "arquivo": "desocupacao_br.csv",
+      "n_linhas": 60,
+      "n_territorios": 1,
+      "primeira_referencia": "2020-01-01",
+      "ultima_referencia": "2024-12-01",
+      "valores_ausentes": 0
+    },
+    "desocupacao_uf": {
+      "catalogo": {
+        "nome": "desocupacao_uf",
+        "conceito": "Taxa de desocupação (PNAD Contínua), trimestral, por UF; referência = último mês do trimestre",
+        "fonte": "sidra",
+        "codigo": "4099",
+        "unidade": "%",
+        "frequencia": "trimestral",
+        "geografia": "UF",
+        "defasagem_meses": 4,
+        "revisada": false,
+        "hipotese": "Desemprego derruba a capacidade de pagar; varia entre clientes da mesma safra",
+        "variavel_sidra": "4099",
+        "nivel_sidra": "n3"
+      },
+      "url": "https://apisidra.ibge.gov.br/values/t/4099/n3/all/v/4099/p/all",
+      "arquivo": "desocupacao_uf.csv",
+      "n_linhas": 540,
+      "n_territorios": 27,
+      "primeira_referencia": "2020-03-01",
+      "ultima_referencia": "2024-12-01",
+      "valores_ausentes": 0
+    }
+  }
+}

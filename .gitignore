@@ -1,0 +1,32 @@
+# Dados: ignora TODO o conteudo, mas mantem a estrutura de pastas via .gitkeep
+data/**
+!data/**/
+!data/**/.gitkeep
+# Exceção: séries macro brutas (dados públicos do BCB e do IBGE), versionadas para
+# reprodutibilidade, porque o BCB revisa séries antigas
+!data/external/macro_bruto/**
+
+# Modelos e submissao: idem
+models/*
+!models/.gitkeep
+submission/*
+!submission/.gitkeep
+
+# Tudo o que os notebooks geram a partir da base fica fora do Git (termo de
+# confidencialidade): figuras, tabelas, registro de experimentos, parametros e
+# listas de variaveis
+reports/**
+!reports/**/
+!reports/**/.gitkeep
+config/*
+!config/.gitkeep
+
+# Ambiente e temporarios
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.egg-info/
+
+# Pasta criada pelo app do Claude
+Claude outputs/
