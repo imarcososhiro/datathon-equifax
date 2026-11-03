@@ -2,9 +2,18 @@
 
 **Equipe Bayes & Bytes** · Marcos Oshiro (Estatística e Ciência de Dados, ICMC-USP) e Vitor Lima dos Santos (Ciência da Computação, UFSCar) · Outubro de 2026
 
+<p>
+  <img alt="3º lugar" src="https://img.shields.io/badge/%F0%9F%A5%89%203%C2%BA%20lugar-Datathon%20Equifax%20%7C%20Boa%20Vista-CD7F32?style=for-the-badge">
+  <img alt="Prêmio de R$ 500" src="https://img.shields.io/badge/pr%C3%AAmio-R%24%20500-2E7D32?style=for-the-badge">
+  <img alt="XIV SEST USP-UFSCar 2026" src="https://img.shields.io/badge/XIV%20SEST-USP%20%C2%B7%20UFSCar%202026-1F4E79?style=for-the-badge">
+</p>
+
+> [!NOTE]
+> 🥉 **Ficamos em 3º lugar no Datathon Equifax | Boa Vista da XIV Semana da Estatística USP-UFSCar (2026) e recebemos o prêmio de R$ 500.** Fomos uma das equipes classificadas para a final, em que apresentamos e defendemos a solução para uma banca formada pela equipe da Equifax | Boa Vista e por professores da USP e da UFSCar.
+
 Código da solução da nossa equipe para o desafio **"Desvendando o Mundo do Crédito"**, proposto pela Equifax | Boa Vista no datathon da Semana da Estatística (SEST) 2026. O objetivo é estimar, no momento da concessão do crédito, a probabilidade de o cliente pagar em dia, e construir esse modelo de ponta a ponta: da análise exploratória à escoragem de uma base futura, passando por seleção de variáveis, feature engineering, dados macroeconômicos, interpretabilidade e produtização.
 
-> **Versão pública: só o método, sem resultados.** A base do desafio é confidencial, e cada participante assinou um termo de confidencialidade. Por isso este repositório traz o código, os testes e os notebooks **sem as saídas**. Ficam de fora as bases, a OOT escorada, tudo o que foi calculado a partir delas (métricas, tabelas, gráficos, listas de variáveis selecionadas), o relatório técnico e a apresentação. Nos notebooks, as células de conclusão foram trocadas por um aviso. As imagens deste README vêm só do método, de dados públicos do BCB e do IBGE ou de uma base sintética; as sintéticas estão marcadas.
+> **Versão pública: só o método, sem os resultados do modelo.** A base do desafio é confidencial, e cada participante assinou um termo de confidencialidade. Por isso este repositório traz o código, os testes e os notebooks **sem as saídas**. Ficam de fora as bases, a OOT escorada, tudo o que foi calculado a partir delas (métricas, tabelas, gráficos, listas de variáveis selecionadas), o relatório técnico e a apresentação. Nos notebooks, as células de conclusão foram trocadas por um aviso. As imagens deste README vêm só do método, de dados públicos do BCB e do IBGE ou de uma base sintética; as sintéticas estão marcadas.
 
 ---
 
@@ -243,4 +252,4 @@ O edital pedia transparência sobre o uso de IA. Usamos o Claude (Anthropic) com
 | **Marcos Oshiro** | Estatística e Ciência de Dados | ICMC-USP |
 | **Vitor Lima dos Santos** | Ciência da Computação | UFSCar |
 
-Agradecemos à Equifax | Boa Vista pelo desafio e pela base, e à organização da Semana da Estatística.
+Agradecemos à Equifax | Boa Vista pelo desafio, pela base e pela premiação, à banca da final e à organização da Semana da Estatística.
